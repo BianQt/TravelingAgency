@@ -61,7 +61,21 @@ margin-bottom: 200px;
   border-radius: 100%;
 
 }
+.rating{
+  width: 350px;
+  display: block;
+   margin: 50px auto 50px auto;
+  text-align: center;
+}
+.rating-nav{
+    margin-bottom: 40px;
+}
+.rating-img{
+  height:50px ;
+  width: 50px;
+  text-align: center;
 
+}
 footer {
    background-color: #FFC107;
     color: #343A40;
